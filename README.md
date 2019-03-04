@@ -3,7 +3,7 @@
 really  simple helper to allow to get typescript compilation in watch mode with multiple compilation that exist in the same project
 feel free to adapt to your needs
 
-example use - build a script 'run-all-task.js'
+example use - build a script 'build_all_configurations.js'
 ````javascript
 const multiTaskRunner = require("npm-mutli-task-runner");
 // basically this script allows to pass arguments to all build tasks without repeating them for each invocation
