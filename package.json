@@ -1,0 +1,17 @@
+{
+	"name": "npm-mutli-task-runner",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": {
+		"name": "Nadav Sinai",
+		"email": "ns@nadavsinai.conm"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nadavsinai/npm-multi-task-runner"
+	},
+	"dependencies": {},
+	"engines": {
+		"node": ">=8.0.0"
+	}
+}
